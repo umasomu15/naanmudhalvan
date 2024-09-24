@@ -1,5 +1,4 @@
-lion
-tiger
-monkey
-bufflo
-chetta
+apple
+orange
+banana
+goa
