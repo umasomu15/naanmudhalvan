@@ -1,5 +1,5 @@
-apple
-orange
-banana
-goa
-mango
+pink
+blue
+black
+yellow
+white
