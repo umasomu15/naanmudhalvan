@@ -1,6 +1,10 @@
+pink
+blue
+black
+yellow
 apple
 orange
 banana
 goa
-mango
+white
 name
